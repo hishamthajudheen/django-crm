@@ -5,7 +5,7 @@ This is a Customer Relationship Management (CRM) web application built using **D
 
 ## Features  
 - ✅ User authentication and role-based access  
-- ✅ Customer management (add, update, delete, and search customers)    
+- ✅ Customer management (add, update and delete customers)    
 - ✅ Responsive design with Bootstrap  
 
 ## Technologies Used  
