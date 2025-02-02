@@ -24,7 +24,7 @@ This is a Customer Relationship Management (CRM) web application built using **D
 ### Setup  
 1. **Clone the repository**  
    ```sh  
-   git clone https://github.com/yourusername/your-crm-repo.git  
+   git clone https://github.com/hishamthajudheen/django-crm.git  
    cd your-crm-repo  
    ```  
 
