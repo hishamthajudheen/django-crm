@@ -86,4 +86,3 @@ This is a Customer Relationship Management (CRM) web application built using **D
 📜 This project is licensed under the **MIT License**.  
 
 ---
-🚀 **Happy Coding!** 🎯
