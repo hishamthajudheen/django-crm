@@ -1,0 +1,10 @@
+asgiref==3.8.1
+Django==5.1.5
+mysql==0.0.3
+mysql-connector==2.2.9
+mysql-connector-python==8.0.33
+mysqlclient==2.2.7
+protobuf==3.20.3
+sqlparse==0.5.3
+typing_extensions==4.12.2
+tzdata==2025.1
