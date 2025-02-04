@@ -74,10 +74,8 @@ This is a Customer Relationship Management (CRM) web application built using **D
    ```  
 
 ## Usage  
-- 🔑 Log in with admin credentials (`/admin` for Django admin panel)  
-- 👥 Add and manage customers, leads, and sales pipelines  
-- 📅 Track tasks and activities  
-- 📊 View analytics on the dashboard  
+- 🔑 Log in with user credentials  
+- 👥 Add and manage customers.
 
 ## Contributing  
 💡 Feel free to **fork** this repository, create a new **branch**, and submit a **pull request** with improvements!  
